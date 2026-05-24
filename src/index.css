@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/unbounded';
+
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --font-display: 'Unbounded Variable', sans-serif;
+  --color-brand-red: #91081f;
+}
+
+body {
+  background-color: var(--color-brand-red);
+}

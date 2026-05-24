@@ -1,0 +1,40 @@
+{
+  "redirects": [
+    {
+      "source": "/vico/releases/:version",
+      "destination": "https://archive.patrykandpatrick.com/vico/releases/:version",
+      "permanent": true
+    },
+    {
+      "source": "/y3c4gz",
+      "destination": "https://guide.vico.patrykandpatrick.com/views/cartesian-charts/candlestickcartesianlayer#transaction.candlestickseries",
+      "permanent": true
+    },
+    {
+      "source": "/r8d20v",
+      "destination": "https://guide.vico.patrykandpatrick.com/compose/cartesian-charts/candlestickcartesianlayer#transaction.candlestickseries",
+      "permanent": true
+    },
+    {
+      "source": "/eji9zq",
+      "destination": "https://guide.vico.patrykandpatrick.com/views/cartesian-charts/columncartesianlayer#transaction.columnseries",
+      "permanent": true
+    },
+    {
+      "source": "/3aqy4o",
+      "destination": "https://guide.vico.patrykandpatrick.com/compose/cartesian-charts/columncartesianlayer#transaction.columnseries",
+      "permanent": true
+    },
+    {
+      "source": "/vmml6t",
+      "destination": "https://guide.vico.patrykandpatrick.com/views/cartesian-charts/linecartesianlayer#transaction.lineseries",
+      "permanent": true
+    },
+    {
+      "source": "/z5ah6v",
+      "destination": "https://guide.vico.patrykandpatrick.com/compose/cartesian-charts/linecartesianlayer#transaction.lineseries",
+      "permanent": true
+    }
+  ],
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
