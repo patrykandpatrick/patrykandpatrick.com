@@ -13,8 +13,7 @@ const LiftAppPrivacyPolicy = () => {
         <div className="m-auto w-full max-w-xl px-5">
           <h1 className="font-display text-3xl">LiftApp privacy policy</h1>
           <p className="mt-8 text-balance">
-            LiftApp collects no personal or non-personal information. It goes online only to update
-            the release notes and preloaded photos.
+            LiftApp collects no personal or nonpersonal information.
           </p>
         </div>
       </div>
